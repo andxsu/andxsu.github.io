@@ -20,7 +20,7 @@ I am a third-year undergraduate student at UCLA studying Physics & Computer Scie
 
 ## Miscellaneous 
 
-**Fun readings I came across**
+Fun readings I came across:
 - [Grad School Survival Guide](/assets/files/gradschoolsurvivalguide.html)
 - [How to Get Your Abstract Rejected](/assets/files/howtogetyourabstractrejected.html)
 - [All I really need to know](/assets/files/all-i-really-need-to-know.pdf)
