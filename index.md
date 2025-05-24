@@ -18,6 +18,13 @@ I am a third-year undergraduate student at UCLA studying Physics & Computer Scie
 - **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
 - **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019. -->
 
+## Miscellaneous 
+
+**Fun readings I came across**
+- [Grad School Survival Guide](/assets/files/gradschoolsurvivalguide.html)
+- [How to Get Your Abstract Rejected](/assets/files/howtogetyourabstractrejected.html)
+- [All I really need to know](/assets/files/all-i-really-need-to-know.pdf)
+
 {% include_relative _includes/publications.md %} 
 
 {% include_relative _includes/services.md %}
