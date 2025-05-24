@@ -6,9 +6,9 @@ email: asu@physics.ucla.edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+keywords: Andrew Su, UCLA, undergraduate student, physics, computer science
+description: Personal website of Andrew Su, an undergraduate student at UCLA.
+# canonical: https://asu.physics.ucla.edu
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
