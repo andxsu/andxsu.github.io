@@ -160,12 +160,12 @@ papertitle {
 
 @media (prefers-color-scheme: dark) {
     body {
-        background-color: #20212b;
-        color: #dadbdf;
+        background-color: #1c1c1d;
+        color: #e8e8e8;
     }
 
     autocolor{
-      color:#dadbdf;
+      color:#e8e8e8;
     }
 
     lightonly {
@@ -254,6 +254,7 @@ h2 {
 
   h2 {
     color:rgb(62, 183, 240);
+    // color:#2698ba
   }
 }
 
