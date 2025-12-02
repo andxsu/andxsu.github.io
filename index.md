@@ -4,12 +4,12 @@ layout: homepage
 
 ## About Me
 
-I am a fourth-year undergraduate student at UCLA studying Physics & Computer Science. I am currently working for Professor Jay Hauser at UCLA on a project to visualize particle collision events at the CMS in Virtual Reality. Last summer, I worked on theoretical topological quantum error correction at Brookhaven National Laboratory under Dr. Layla Hormozi. I'm continuing that research this Fall under BNL's SURP program.
+I am a fourth-year undergraduate student at UCLA studying Physics & Computer Science. I am currently working for Professor Jay Hauser at UCLA on a project to visualize particle collision events at the CMS in Virtual Reality (https://vr.physics.ucla.edu/). Last summer, I worked on theoretical topological quantum error correction at Brookhaven National Laboratory under Dr. Layla Hormozi. I'm continuing that research this Fall under BNL's SURP program.
 
 ## Research Interests
 
 - **Quantum Computing:** topological quantum computing, superconducting qubits, QC for Lattice QCD, circuit quantum electrodynamics, quantum networking
-- **Quantum Error Correction:**  topological quantum error correcting codes
+- **Quantum Error Correction:**  topological quantum error correcting codes, hybrid codes, noise model tailored quantum error correction
 - **Miscellaneous:** [financial modeling with physics](https://doi.org/10.1177/29767032241279990), robotic automation, scalable aerospace
 
 <!-- ## News
