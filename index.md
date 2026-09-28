@@ -4,12 +4,11 @@ layout: homepage
 
 ## About Me
 
-I am a fourth-year undergraduate student at UCLA studying Physics & Computer Science. I am currently working for Professor Jay Hauser at UCLA on a project to visualize particle collision events at the CMS in Virtual Reality ([https://vr.physics.ucla.edu](https://vr.physics.ucla.edu)). Last summer, I worked on theoretical topological quantum error correction at Brookhaven National Laboratory under Dr. Layla Hormozi. I'm continuing that research this Fall/Winter under BNL's SURP program. I am also President of UCLA's Physics Honor Society Sigma Pi Sigma ([https://www.sigmapisigmaucla.com](https://www.sigmapisigmaucla.com)).
+I am a first year MS student at Columbia studying Applied Physics. I am currently working for Professor Xueyue (Sherry) Zhang developing long range gates for superconducting qubit architectures. Previously, I have worked on theoretical topological quantum error correction at Brookhaven National Laboratory under Dr. Layla Hormozi and on experimental particle physics with Professor Jay Hauser at UCLA.
 
 ## Research Interests
 
-- **Quantum Computing:** topological quantum computing, superconducting qubits, QC for Lattice QCD, circuit quantum electrodynamics, quantum networking
-- **Quantum Error Correction:**  topological quantum error correcting codes, hybrid codes, noise model tailored quantum error correction
+- **Quantum Computing:** superconducting qubits, hybrid quantum architectures, quantum simulation
 - **Miscellaneous:** [financial modeling with physics](https://doi.org/10.1177/29767032241279990), robotic automation, scalable aerospace
 
 <!-- ## News
