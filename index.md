@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a first year MS student at Columbia studying Applied Physics. I am currently working for Professor Xueyue (Sherry) Zhang developing long range gates for superconducting qubit architectures. Previously, I have worked on theoretical topological quantum error correction at Brookhaven National Laboratory under Dr. Layla Hormozi and on experimental particle physics with Professor Jay Hauser at UCLA.
+I am an MS Applied Physics student at Columbia University. I am currently working for Professor Xueyue (Sherry) Zhang developing long-range gates for superconducting qubit architectures. Previously, I worked on theoretical topological quantum error correction at Brookhaven National Laboratory under Dr. Layla Hormozi and on experimental particle physics with Professor Jay Hauser at UCLA.
 
 ## Research Interests
 
